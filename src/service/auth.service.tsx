@@ -11,10 +11,10 @@ import { logout } from "../store/auth/auth.slice";
 
 axios.defaults.baseURL = "http://localhost:3000/api/v1/";
 
-let previousErrorTimer;
-let previousSuccessTimer;
-let previousErrorMessage = "";
-let previousSuccessMessage = "";
+// let previousErrorTimer;
+// let previousSuccessTimer;
+// let previousErrorMessage = "";
+// let previousSuccessMessage = "";
 
 axios.interceptors.request.use(
   (config) => {

@@ -1,5 +1,5 @@
 import { Search } from "lucide-react";
-import { ChangeEvent, useState } from "react";
+import { useState } from "react";
 
 const Searchs = () => {
 

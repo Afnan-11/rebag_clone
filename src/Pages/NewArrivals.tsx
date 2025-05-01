@@ -1,4 +1,3 @@
-import BagListing from '../Components/newArrivals/Bag-Listing'
 import FilterSidebar from '../Components/newArrivals/Filter-Sidebar'
 import HeroBanner from '../Components/newArrivals/Hero-Banner'
 import ImageCardGrid from '../Components/newArrivals/image-card-grid'
